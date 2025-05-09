@@ -1,1 +1,1 @@
-With this data set I am working with data provided by the United States Social Security Administration, which lists first names along with the number and sex of babies they were given to in each year. Answering 3 select questions derived from the data set.
+With this data set I am working with data provided by the United States Social Security Administration, which lists first names along with the number and sex of babies they were given to in each year; answering 3 select questions derived from the data set.
